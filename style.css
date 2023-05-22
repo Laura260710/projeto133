@@ -1,0 +1,20 @@
+.botao {
+    background-color: #ff007b; /* cor de fundo */
+    color: white; /* cor do texto */
+    padding: 10px 20px; /* espaçamento interno (topo/baixo esquerda/direita) */
+    font-size: 16px; /* tamanho da fonte */
+    border: none; /* remover a borda */
+    cursor: pointer; /* alterar o cursor ao passar o mouse */
+    border-radius: 20px; /* arredondar os cantos */
+    text-decoration: none;
+    width: 400px;
+  }
+  
+.botao:hover {
+    background-color: #65008e; /* cor de fundo ao passar o mouse */
+  }
+  
+  body {
+    background-image: url(fundo.avif);
+    background-size: cover;
+  }
